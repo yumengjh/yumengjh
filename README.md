@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning Nest .
 
+![](https://github-readme-stats.vercel.app/api?username=yumengjh&show_icons=true&theme=default)
+
 <!--
 Here are some ideas to get you started:
 
