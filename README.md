@@ -11,15 +11,13 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=yumengjh&show_icons=true&theme=tokyonight&hide_border=true" 
     alt="GitHub Stats" 
-    style="max-width: 100%; height: auto;"
-  />
-</p>
-
-<p align="center">
+    width="420"
+/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumengjh&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Langs" 
-    style="max-width: 100%; height: auto;"
-  />
+    width="420"
+/>
 </p>
+
 
