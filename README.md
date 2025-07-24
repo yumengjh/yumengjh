@@ -1,8 +1,8 @@
-## Hi there 👋 <img src='https://raw.githubusercontent.com/yumengjh/picgo-images/main/test/2025-07-24/220600.webp' width='3%'> 
+## Hi there  <img src='https://raw.githubusercontent.com/yumengjh/picgo-images/main/test/2025-07-24/220600.webp' width='4%'> 
+
+- 🌱 I’m currently learning Nest .
 
 <!--
-**yumengjh/yumengjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
