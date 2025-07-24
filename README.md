@@ -1,4 +1,4 @@
-Hi there <img src="https://raw.githubusercontent.com/yumengjh/picgo-images/main/test/2025-07-24/220600.webp" width="3.5%" />
+Hi there <img src="https://raw.githubusercontent.com/yumengjh/picgo-images/main/test/2025-07-24/220600.webp" width="2.5%" />
 
 🌱 I’m currently learning <strong>NestJS</strong>.<br>
 <!--   🚀 Passionate about Web development, especially Vue, Node, Supabase.<br> -->
