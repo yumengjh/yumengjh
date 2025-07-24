@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 [](https://registry.npmmirror.com/@lobehub/fluent-emoji-anim-1/latest/files/assets/1f44b.webp)
 
 <!--
 **yumengjh/yumengjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
