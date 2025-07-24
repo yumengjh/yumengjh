@@ -4,8 +4,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yumengjh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumengjh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yumengjh&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" alt="Trophy" /> </p>
-
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yumengjh&theme=github-compact" alt="Activity Graph" /> </p>
 <!--
 Here are some ideas to get you started:
 
