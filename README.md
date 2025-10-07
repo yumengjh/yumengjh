@@ -1,6 +1,6 @@
 Hi there 👋
 
-🌱 I’m currently learning <strong>NestJS</strong>.<br>
+ <!-- 🌱 I’m currently learning <strong>NestJS</strong>.<br>  -->
 <!--   🚀 Passionate about Web development, especially Vue, Node, Supabase.<br> -->
 
 <!--   
