@@ -1,4 +1,13 @@
-Hi there 👋
+# Hi there 👋
+
+
+👋 Hi, I'm 鱼梦江湖 (@yumengjh), I'm also a coder.  
+
+💻 **Role:** Frontend Developer | Fullstack Enthusiast  
+
+🛠 **Tech Stack:** JavaScript | TypeScript | Vue3 | React | Node.js | Operations
+
+🌱 **Currently Learning:** NestJS, Supabase 
 
  <!-- 🌱 I’m currently learning <strong>NestJS</strong>.<br>  -->
 <!--   🚀 Passionate about Web development, especially Vue, Node, Supabase.<br> -->
